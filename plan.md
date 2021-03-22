@@ -1,4 +1,4 @@
-# Plan Of Action of WebMeet App
+# Plan Of Action of WebMeet Web App
 
 
 
